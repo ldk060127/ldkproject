@@ -1,8 +1,9 @@
-# database.py
+# database.py 
 import sqlite3
 from datetime import datetime
 
-DB_NAME = "fridge.db"
+# 💡 기존 "fridge.db"에서 "fridge_v2.db"로 이름을 바꿉니다! (새 집 짓기)
+DB_NAME = "fridge_v2.db" 
 
 def init_db():
     conn = sqlite3.connect(DB_NAME)
