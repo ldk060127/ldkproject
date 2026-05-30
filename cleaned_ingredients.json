@@ -1,0 +1,402 @@
+[
+    {
+        "name": "감자",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "고구마",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "당근",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "무",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "배추",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "양배추",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "브로콜리",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "시금치",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "상추",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "깻잎",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "대파",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "쪽파",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "양파",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "마늘",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "생강",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "고추",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "파프리카",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "오이",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "애호박",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "단호박",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "가지",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "토마토",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "버섯",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "새송이버섯",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "표고버섯",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "팽이버섯",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "느타리버섯",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "연근",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "우엉",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "도라지",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "비트",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "아스파라거스",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "사과",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "배",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "바나나",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "딸기",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "수박",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "참외",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "포도",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "복숭아",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "귤",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "오렌지",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "레몬",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "키위",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "망고",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "블루베리",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "체리",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "멜론",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "닭고기",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "닭가슴살",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "돼지고기",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "삼겹살",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "목살",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "소고기",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "등심",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "안심",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "갈비",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "오리고기",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "고등어",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "연어",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "참치",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "갈치",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "가자미",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "명태",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "멸치",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "새우",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "오징어",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "문어",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "낙지",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "꽃게",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "굴",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "바지락",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "홍합",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "전복",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "달걀",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "우유",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "두유",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "두부",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "순두부",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "치즈",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "버터",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "요거트",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "쌀",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "현미",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "찹쌀",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "보리",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "귀리",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "콩",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "팥",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "콩나물",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "숙주나물",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "김치",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "고추장",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "된장",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "간장",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "참기름",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "들기름",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "어묵",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "햄",
+        "storage_method": "기본 보관법"
+    },
+    {
+        "name": "소시지",
+        "storage_method": "기본 보관법"
+    }
+]
