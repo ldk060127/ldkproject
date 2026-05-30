@@ -12,7 +12,7 @@ st.title("🍅 우리 집 스마트 냉장고")
 # ⭐ [핵심 추가] 개인 냉장고 구분을 위한 이름 입력 칸
 # -----------------------------------------
 st.sidebar.subheader("👤 사용자 설정")
-user_name = st.sidebar.text_input("닉네임이나 이름을 입력하세요", value="기본사용자").strip()
+user_name = st.sidebar.text_input("닉네임이나 이름을 입력하세요", value="").strip()
 
 if not user_name:
     st.warning("👈 왼쪽 사이드바에 이름을 입력해야 냉장고를 사용할 수 있습니다!")
